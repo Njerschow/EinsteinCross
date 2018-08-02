@@ -1,0 +1,200 @@
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_0'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_1'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_2'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_3'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_4'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_5'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_6'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_7'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_8'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_9'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_10'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_11'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_12'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_13'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_14'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_15'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_16'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_17'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_18'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_19'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_20'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_21'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_22'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_23'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_24'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_25'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_26'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_27'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_28'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_29'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_30'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_31'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_32'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_33'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_34'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_35'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_36'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_37'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_38'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_39'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_40'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_41'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_42'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_43'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_44'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_45'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_46'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_47'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_48'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_49'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_50'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_51'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_52'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_53'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_54'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_55'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_56'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_57'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_58'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_59'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_60'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_61'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_62'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_63'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_64'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_65'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_66'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_67'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_68'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_69'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_70'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_71'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_72'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_73'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_74'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_75'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_76'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_77'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_78'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_79'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_80'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_81'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_82'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_83'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_84'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_85'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_86'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_87'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_88'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_89'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_90'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_91'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_92'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_93'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_94'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_95'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_96'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_97'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_98'
+
+java -jar casjobs.jar execute -t 'mydb/2' 'drop table object_99'
+
